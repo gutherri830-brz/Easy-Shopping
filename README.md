@@ -14,3 +14,5 @@
 <br>
 <br>
 <h2>Abaixo um exemplo da interface do projeto em tela de celular:</h2>
+<img align="center" width="277" height="532" alt="image" src="https://github.com/user-attachments/assets/641e9c88-412d-46e1-9b4e-644ed497e37c" />
+
